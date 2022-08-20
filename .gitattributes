@@ -1,5 +1,3 @@
-Android.mk filter=lfs diff=lfs merge=lfs -text
-BoardConfigVendor.mk filter=lfs diff=lfs merge=lfs -text
-proprietary filter=lfs diff=lfs merge=lfs -text
-a31-vendor.mk filter=lfs diff=lfs merge=lfs -text
-Android.bp filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:e83585943578e7757e3fb537000ad71de69c6815b7573409cdadf3c43cd240e2
+size 289
